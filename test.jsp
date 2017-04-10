@@ -5,7 +5,7 @@
 <head>
 
 <body>
-	TEST Page. new. 
+	TEST Page. new.
 <body>
 
 </html>
